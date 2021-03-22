@@ -1,6 +1,6 @@
 # SpringBootThymeleafDatabase
  
-This is a # SpringBootThymeleafDatabase web for practice 
+This is a SpringBootThymeleafDatabase web for practice 
 
 Built with:
     
