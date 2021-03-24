@@ -4,7 +4,7 @@ This is a SpringBootThymeleafDatabase web for practice
 
 Built with:
     
-- Java  
+- Java   
 - Spring Boot
 - Thymeleaf
 - MySQL    
