@@ -7,7 +7,7 @@ Built with:
 - Java     
 - Spring Boot 
 - Thymeleaf
-- MySQL     
+- MySQL      
  
 ## Description
  
