@@ -2,7 +2,7 @@
  
 This is a SpringBootThymeleafDatabase web for practice 
 
-Built with:
+Built with:   
     
 - Java     
 - Spring Boot 
