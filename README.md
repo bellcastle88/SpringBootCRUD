@@ -15,7 +15,7 @@ It has a function below :
     
 - Create  
 - Read 
-- Update  
+- Update    
 - Delete 
   
 ## Acknowledgments 
