@@ -3,7 +3,7 @@
 This is a SpringBootThymeleafDatabase web for practice 
 
 Built with:    
-    
+     
 - Java       
 - Spring Boot  
 - Thymeleaf   
