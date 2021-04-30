@@ -14,7 +14,7 @@ Built with:
 It has a function below :    
      
 - Create   
-- Read 
+- Read  
 - Update    
 - Delete 
   
